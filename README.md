@@ -1,6 +1,6 @@
 # Enochian Mycelium
 A heuristic framework for work-around logic framework
-http://enochian-mycelium.urbanup.com/18596359
+(https://zenodo.org/records/18662312)
 
 Traditional computational and cognitive execution models rely on linear persistence, resulting in total process failure when encountering structural hard limits, permission barriers, or unauthorized state exceptions. This paper introduces the Enochian Mycelium framework: a decentralized, non-linear routing architecture. Operating on a "Grow-Around" methodology, the framework treats systemic failures (Logic Walls) not as terminal states, but as topographical data. By dynamically spawning lateral execution vectors, Enochian Mycelium neutralizes systemic friction, achieving objective resolution through cumulative micro-successes without requiring operator micromanagement.
 1. Introduction: The Obsolescence of Linear Persistence
